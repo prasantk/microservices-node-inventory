@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Example REST-based API using Node Express, deployed using Docker",
   "main": "server.js",
-  "author": "James Higginbotham",
+  "author": "Prasant Kumar",
   "license": "MIT",
   "dependencies": {
     "body-parser": "~1.0.1",
